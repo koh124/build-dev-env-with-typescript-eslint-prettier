@@ -1,0 +1,11 @@
+★Linter, Formatterとは
+Linterはコードを静的に解析し、コーディング規約に則っているかチェックするツール
+ルール違反があるとエラー、警告を表示してくれる
+潜在的なバグの発見に役立つ
+例) Linterの種類
+・ESLint: Javascript/Typescript
+・Stylelint: CSS
+
+Fomatterはコードの整形ツール
+スペース、インデント、改行等を一定のコーディング規約に従うようにBeautifyしてくれる
+例) Prettier
