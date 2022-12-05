@@ -1,5 +1,6 @@
 function Hello(text) {
-    console.log('Hello, ' + text + '!');
+    console.log("Hello, " + text + "!");
 }
-var text = 'World';
+var text = "World";
 Hello(text);
+// const something: string = "sometext";

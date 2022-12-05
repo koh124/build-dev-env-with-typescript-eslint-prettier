@@ -1,5 +1,7 @@
 function Hello(text: string): void {
-  console.log('Hello, ' + text + '!');
+  console.log("Hello, " + text + "!");
 }
-const text: string = 'World';
+const text: string = "World";
 Hello(text);
+
+// const something: string = "sometext";
